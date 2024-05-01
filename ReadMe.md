@@ -1,5 +1,5 @@
 # 💫 About Me:
-Certainly! Here's a refined version:<br><br>---<br><br>I have recently completed my diploma from GTBPI, where I acquired proficiency in various programming languages and technologies essential for both frontend and backend development. My skill set includes:<br><br>**Frontend:**<br>- HTML<br>- CSS<br>- JavaScript<br><br>**Backend:**<br>- Python (Django)<br>- Java<br>- C<br>- C++<br><br>This diverse skill set equips me to develop robust and efficient web applications, ensuring seamless user experiences and optimized backend functionalities. I am eager to leverage my expertise to contribute effectively to challenging projects and further advance my career in software development.
+---<br><br>I have recently completed my diploma from GTBPI, where I acquired proficiency in various programming languages and technologies essential for both frontend and backend development. My skill set includes:<br><br>**Frontend:**<br>- HTML<br>- CSS<br>- JavaScript<br><br>**Backend:**<br>- Python (Django)<br>- Java<br>- C<br>- C++<br><br>This diverse skill set equips me to develop robust and efficient web applications, ensuring seamless user experiences and optimized backend functionalities. I am eager to leverage my expertise to contribute effectively to challenging projects and further advance my career in software development.
 
 
 ## 🌐 Socials:
